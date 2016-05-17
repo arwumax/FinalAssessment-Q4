@@ -13,7 +13,6 @@
 		1AE1046E1CEB271A0008CE16 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1AE1046C1CEB271A0008CE16 /* LaunchScreen.storyboard */; };
 		1AE104761CEB278B0008CE16 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE104751CEB278B0008CE16 /* TableViewController.swift */; };
 		1AE104781CEB27C50008CE16 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE104771CEB27C50008CE16 /* TableViewCell.swift */; };
-		1AE1047A1CEB284A0008CE16 /* data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AE104791CEB284A0008CE16 /* data.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		1AE1046F1CEB271A0008CE16 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1AE104751CEB278B0008CE16 /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 		1AE104771CEB27C50008CE16 /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
-		1AE104791CEB284A0008CE16 /* data.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = data.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +60,6 @@
 				1AE104631CEB271A0008CE16 /* AppDelegate.swift */,
 				1AE104751CEB278B0008CE16 /* TableViewController.swift */,
 				1AE104771CEB27C50008CE16 /* TableViewCell.swift */,
-				1AE104791CEB284A0008CE16 /* data.swift */,
 				1AE1046A1CEB271A0008CE16 /* Assets.xcassets */,
 				1AE1046C1CEB271A0008CE16 /* LaunchScreen.storyboard */,
 				1AE1046F1CEB271A0008CE16 /* Info.plist */,
@@ -144,7 +141,6 @@
 				1AE104781CEB27C50008CE16 /* TableViewCell.swift in Sources */,
 				1AE104641CEB271A0008CE16 /* AppDelegate.swift in Sources */,
 				1AE104761CEB278B0008CE16 /* TableViewController.swift in Sources */,
-				1AE1047A1CEB284A0008CE16 /* data.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
